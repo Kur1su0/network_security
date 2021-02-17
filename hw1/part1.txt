@@ -1,0 +1,14 @@
+1. Multiple devices are connected to the local network. What are their IP addresses? Please list all. 
+[Note: only list IPs on the local network, not IPs on external networks.]
+
+2. Give at least three examples of network protocols that you observe in the trace. For each protocol, specify which layer the protocol is in (e.g., application layer, transport layer, network layer, etc.).
+
+3. The trace shows that at least one client makes HTTPS connections. Pick one of these connections and answer the following:
+
+(a) What is the domain name of the site the client is connecting to? Please include the packet number. 
+
+(b) What is the TLS version? Is this TLS version worrisome? Please include the packet number.
+
+(c) During the TLS handshake, the client provides a list of supported cipher suites. List the first three cipher suites. Please include the packet number.
+
+(d) What cipher suite does the server choose for the connection? Please include the packet number.
